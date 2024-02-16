@@ -1,24 +1,7 @@
-# README
+# POC para analise de sentimentos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Situacao de perda
+![carbon](https://github.com/magedeungaro/Palmeiras-Ai-Chatbot-Poc/assets/81477400/35d2a6c4-d4a6-4bfe-8862-6197d618abbf)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Situacao de ganho
+![carbon (1)](https://github.com/magedeungaro/Palmeiras-Ai-Chatbot-Poc/assets/81477400/5fab55dc-f4d4-47d5-9802-9fd90446e572)
